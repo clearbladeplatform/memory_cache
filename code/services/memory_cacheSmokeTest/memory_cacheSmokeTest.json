@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,memory_cache",
+    "logging_enabled": "false",
+    "name": "memory_cacheSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "memory_cacheSmokeTest.js"
+}
